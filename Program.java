@@ -52,7 +52,7 @@ public class Program {
 
 		System.out.printf("\nThe area is: %.2f", area(radi));
 
-		System.out.println("\nThe perimeter is: " + perimeter(radi));
+		System.out.printf("\nThe perimeter is: %.2f", perimeter(radi));
 
 	}
 }
